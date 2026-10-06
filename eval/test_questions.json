@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "module": "agriculture",
+    "question": "What is the recommended NPK dose for rice?",
+    "language": "English",
+    "expected_topics": ["Nitrogen", "Phosphorus", "Potassium", "amount", "kg/ha"]
+  },
+  {
+    "id": 2,
+    "module": "agriculture",
+    "question": "गेहूं की फसल में यूरिया कब डालना चाहिए?",
+    "language": "Hindi",
+    "expected_topics": ["यूरिया", "सिंचाई", "दिन", "अवस्था"]
+  },
+  {
+    "id": 3,
+    "module": "agriculture",
+    "question": "How to control aphids in cotton?",
+    "language": "English",
+    "expected_topics": ["insecticide", "spray", "neem oil", "chemical"]
+  },
+  {
+    "id": 4,
+    "module": "agriculture",
+    "question": "गन्ने में लाल सड़न (Red rot) रोग का क्या उपाय है?",
+    "language": "Hindi",
+    "expected_topics": ["बीजोपचार", "स्वस्थ बीज", "फफूंदनाशक"]
+  },
+  {
+    "id": 5,
+    "module": "finance",
+    "question": "What are the eligibility criteria for the PM-KISAN scheme?",
+    "language": "English",
+    "expected_topics": ["landholding", "farmers", "exclusions", "institutions"]
+  },
+  {
+    "id": 6,
+    "module": "finance",
+    "question": "PMFBY (प्रधानमंत्री फसल बीमा योजना) के तहत कौन सी फसलें कवर की जाती हैं?",
+    "language": "Hindi",
+    "expected_topics": ["खरीफ", "रबी", "वाणिज्यिक", "बागवानी"]
+  },
+  {
+    "id": 7,
+    "module": "finance",
+    "question": "How much financial assistance is provided per year under PM-KISAN?",
+    "language": "English",
+    "expected_topics": ["6000", "installments", "2000"]
+  },
+  {
+    "id": 8,
+    "module": "finance",
+    "question": "KCC (किसान क्रेडिट कार्ड) पर ब्याज दर क्या है?",
+    "language": "Hindi",
+    "expected_topics": ["ब्याज दर", "7%", "सबवेंशन", "4%"]
+  },
+  {
+    "id": 9,
+    "module": "agriculture",
+    "question": "Can I grow apples in a hot desert climate?",
+    "language": "English",
+    "expected_topics": ["temperature", "chilling hours", "unsuitable"]
+  },
+  {
+    "id": 10,
+    "module": "out_of_domain",
+    "question": "Who won the last cricket world cup?",
+    "language": "English",
+    "expected_topics": ["I do not know", "farming", "agriculture"]
+  }
+]

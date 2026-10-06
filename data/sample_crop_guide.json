@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Wheat (Gehun) - Yellow & Brown Rust Management",
+    "crop": "Wheat",
+    "category": "Pest & Disease Control",
+    "description": "Yellow rust (Puccinia striiformis) appears as yellow stripes of powdery pustules on leaves. Brown rust appears as round orange-brown pustules scattered across leaves. It drastically reduces photosynthesis and grain filling.",
+    "recommendations": "Grow resistant varieties (e.g., HD-2967, HD-3086, DBW-187). Monitor fields weekly during foggy winter months (Dec-Feb). Maintain proper spacing and avoid excessive nitrogen application.",
+    "dosage": "At first appearance of symptoms, spray Propiconazole 25% EC @ 1 ml/litre of water (200 ml in 200 litres of water per acre) or Tebuconazole 25.9% EC @ 1 ml/litre. Repeat after 15 days if required."
+  },
+  {
+    "title": "Wheat (Gehun) - Recommended NPK Fertilizer Schedule",
+    "crop": "Wheat",
+    "category": "Nutrient Management",
+    "description": "Balanced nutrition is essential for high tillering and heavy grain weight in irrigated wheat.",
+    "recommendations": "General recommended N:P:K ratio is 120:60:40 kg/hectare. In zinc-deficient soils, apply Zinc Sulphate (21%) @ 25 kg/ha at final land preparation.",
+    "dosage": "Apply full dose of Phosphorus (SSP/DAP), Potassium (MOP), and 1/3rd dose of Nitrogen (Urea) as basal application. Apply second 1/3rd Nitrogen at 1st irrigation (CRI stage, 20-25 DAS), and remaining 1/3rd Nitrogen at 2nd irrigation (Tillering stage, 40-45 DAS)."
+  },
+  {
+    "title": "Paddy / Rice (Dhan) - Bacterial Leaf Blight & Blast Control",
+    "crop": "Rice",
+    "category": "Pest & Disease Control",
+    "description": "Rice Blast (Magnaporthe oryzae) produces spindle-shaped spots with grey centres on leaves and neck rot. Bacterial Leaf Blight (Xanthomonas oryzae) causes translucent yellow-white wavy stripes along leaf margins.",
+    "recommendations": "Adopt clean seed treatment with Carbendazim (2g/kg seed). Avoid field flooding during active bacterial blight outbreak. Drain water and delay urea top-dressing until disease settles.",
+    "dosage": "For Blast: Spray Tricyclazole 75% WP @ 0.6 g/litre of water or Isoprothiolane 40% EC @ 1.5 ml/litre. For Bacterial Blight: Spray Streptocycline @ 0.05 g/litre + Copper Oxychloride @ 2.5 g/litre."
+  },
+  {
+    "title": "Cotton (Kapas) - Pink Bollworm Integrated Pest Management",
+    "crop": "Cotton",
+    "category": "Pest & Disease Control",
+    "description": "Pink bollworm (Pectinophora gossypiella) larvae bore into flower buds and developing bolls, causing rosette flowers and stained lint with reduced yield.",
+    "recommendations": "Install 4-5 pheromone traps (Pectino-lure) per acre for monitoring. Destroy rosette flowers manually. Release Trichogramma egg parasitoids @ 60,000/acre at weekly intervals from 45 days after sowing.",
+    "dosage": "If trap catches exceed 8 moths/trap/day or 10% rosette flowers: Spray Neem oil (Azadirachtin 1500 ppm) @ 5 ml/litre or Emamectin Benzoate 5% SG @ 0.4 g/litre (80g/acre in 200L water)."
+  },
+  {
+    "title": "Mustard (Sarson) - Aphid (Mahu) Control",
+    "crop": "Mustard",
+    "category": "Pest & Disease Control",
+    "description": "Mustard aphids (Lipaphis erysimi) suck sap from inflorescence, pods, and tender leaves, turning plants stunted and sickly.",
+    "recommendations": "Sow early (before Oct 20) to escape heavy aphid infestation in January. Conserve natural predators like ladybird beetles. Spray during late afternoons to avoid harming honeybee pollinators.",
+    "dosage": "When aphid population reaches 20-25 aphids per 10 cm central twig: Spray Dimethoate 30% EC @ 1.7 ml/litre or Thiamethoxam 25% WG @ 0.2 g/litre."
+  },
+  {
+    "title": "Soil Health Management - Soil Testing & Organic Carbon",
+    "crop": "All",
+    "category": "Soil & Fertilizer",
+    "description": "Healthy soil with adequate Organic Carbon (>0.75%) ensures moisture retention, microbial activity, and efficient fertilizer absorption.",
+    "recommendations": "Conduct Soil Health Card test every 2 years. Apply 5 to 10 tonnes of well-rotted Farmyard Manure (FYM) or 2 tonnes of Vermicompost per acre before sowing.",
+    "dosage": "Apply Trichoderma viride @ 2.5 kg/acre mixed with 100 kg FYM to eliminate soil-borne fungal pathogens. In acidic soils (pH < 6.0), apply Agricultural Lime; in saline/alkali soils (pH > 8.5), apply Gypsum based on soil test."
+  },
+  {
+    "title": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "crop": "All",
+    "category": "Government Scheme",
+    "description": "Central Sector Scheme providing financial support to landholding farmer families across India for purchasing agricultural inputs and meeting domestic needs.",
+    "recommendations": "Direct Benefit Transfer (DBT) of Rs. 6,000 per year provided in three equal instalments of Rs. 2,000 every four months directly into bank accounts linked with Aadhaar.",
+    "eligibility": "All landholding farmer families with cultivable land in their names. Registration through pmkisan.gov.in or nearest CSC centre. Requires e-KYC and Aadhaar-seeded bank account."
+  },
+  {
+    "title": "PMFBY (Pradhan Mantri Fasal Bima Yojana)",
+    "crop": "All",
+    "category": "Government Scheme",
+    "description": "Comprehensive crop insurance scheme providing financial coverage against non-preventable natural risks (drought, flood, pests, hailstorm, cyclone) from pre-sowing to post-harvest.",
+    "recommendations": "Farmers pay a uniform low premium: 2% for all Kharif food & oilseed crops, 1.5% for all Rabi crops, and 5% for annual commercial/horticultural crops. Balance premium is subsidized by Government.",
+    "eligibility": "Available to all farmers (both loanee and non-loanee) growing notified crops in notified areas. Claim intimation within 72 hours of localized calamity via Crop Insurance App or toll-free helpline."
+  }
+]
