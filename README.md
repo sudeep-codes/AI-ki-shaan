@@ -1,3 +1,12 @@
+---
+title: AI Ki Shaan
+emoji: 🌍
+colorFrom: pink
+colorTo: pink
+sdk: docker
+pinned: false
+---
+
 # 🌾 AI-ki-shan (एआई-किसान)
 
 > **Empowering Farmers & Agronomists with AI-Driven Agricultural Intelligence**
